@@ -8,6 +8,8 @@ namespace CleanCodeDemos
 {
     class Demo2
     {
+        // reusablity of code
+
         //public delegate void LoginEventHandler(object sender, EventArgs e);
         //public event LoginEventHandler LoginEvent;
 

@@ -43,7 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Demo1.cs" />
+    <Compile Include="Demo10.cs" />
+    <Compile Include="Demo11.cs" />
+    <Compile Include="Demo12.cs" />
+    <Compile Include="Demo13.cs" />
+    <Compile Include="Demo14.cs" />
+    <Compile Include="Demo15.cs" />
+    <Compile Include="Demo2.cs" />
+    <Compile Include="Demo3.cs" />
+    <Compile Include="Demo4.cs" />
+    <Compile Include="Demo5.cs" />
+    <Compile Include="Demo6.cs" />
+    <Compile Include="Demo7.cs" />
+    <Compile Include="Demo8.cs" />
+    <Compile Include="Demo9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

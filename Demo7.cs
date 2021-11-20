@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace CleanCodeDemos
 {
+    // indentation
+    //class     Demo7
+    //{
+    //    public void Method(
+    //        int argumnet)
+    //    {
+    //        string text = "text";
+    //                  text = text + argumnet;
+    //    }
+    //}
+
     class Demo7
     {
+        public void Method(int argumnet)
+        {
+            string text = "text";
+            text = text + argumnet;
+        }
     }
 }
